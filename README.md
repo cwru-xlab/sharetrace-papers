@@ -1,4 +1,4 @@
-# ShareTrace publications
+# sharetrace-papers
 
 1. Untitled Master's Thesis (WIP) of [@rtatton](https://github.com/rtatton)
    - Builds upon [2]:
