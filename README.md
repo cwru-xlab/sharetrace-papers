@@ -1,12 +1,11 @@
 # sharetrace-papers
 
-1. Untitled Master's Thesis (WIP) of [@rtatton](https://github.com/rtatton)
+1. ShareTrace: Proactive Contact Tracing with Asynchronous Message Passing ([OhioLink](http://rave.ohiolink.edu/etdc/view?acc_num=case17419088053194))
    - Builds upon [2]:
       - Contextualizes ShareTrace as a mobile-crowdsensing application
       - Reformulates the ShareTrace algorithm in an online setting within the formal actor model
       - Proposes an application of local differential privacy to allow centralized population-level risk aggregation
       - Evaluates message reachability accuracy, efficiency, and scalability (similar to [2])
-      - Evaluates the relationship between message passing, temporal concurrency, and user/contact data distributions
    - [Code implementation](https://github.com/cwru-xlab/sharetrace-akka)
 2. ShareTrace: Contact Tracing with the Actor Model ([arXiv](https://arxiv.org/abs/2203.12445v3),[IEEE](https://ieeexplore.ieee.org/document/9982762/))
    - Newer version of [3]
